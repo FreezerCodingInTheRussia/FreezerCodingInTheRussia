@@ -5,6 +5,7 @@
 - 📫 How to reach me : Discord - freezer_freezer
 - 😄 Pronouns: He / him / his
 - ⚡ Fun fact: Я знаю русский
+- 🏢 Group: https://t.me/StrayFireEXE
 
 <!---
 FreezerCodingInTheRussia/FreezerCodingInTheRussia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
