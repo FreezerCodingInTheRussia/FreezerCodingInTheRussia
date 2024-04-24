@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FreezerCodingInTheRussia
+- 👋 Hi, I’m Freezer or Bogdan
 - 👀 I’m interested in 3D modeling and soft
-- 🌱 I’m currently learning - (Im 12)
+- 🌱 I’m currently learning Python and C++ (Im 12)
 - 💞️ I’m looking to collaborate on -
-- 📫 How to reach me : Discord - freezercozialone
+- 📫 How to reach me : Discord - freezer_freezer
 - 😄 Pronouns: He / him / his
 - ⚡ Fun fact: Я знаю русский
 
